@@ -1,0 +1,15 @@
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\bin\Debug\CafeSystem1.exe.config
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\bin\Debug\CafeSystem1.exe
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\bin\Debug\CafeSystem1.pdb
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\obj\Debug\CafeSystem1.csproj.AssemblyReference.cache
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\obj\Debug\CafeSystem1.Form1.resources
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\obj\Debug\CafeSystem1.Properties.Resources.resources
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\obj\Debug\CafeSystem1.csproj.GenerateResource.cache
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\obj\Debug\CafeSystem1.csproj.CoreCompileInputs.cache
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\obj\Debug\CafeSystem1.exe
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\obj\Debug\CafeSystem1.pdb
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\obj\Debug\CafeSystem1.UserOrder.resources
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\obj\Debug\CafeSystem1.GuestOrder.resources
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\obj\Debug\CafeSystem1.ItemsForm.resources
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\obj\Debug\CafeSystem1.UsersForm.resources
+C:\Users\dhrut\source\repos\CafeSystem1\CafeSystem1\obj\Debug\CafeSystem1.ViewOrders.resources
